@@ -1,5 +1,6 @@
-http://example.com/2022/12/01/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-20221201/
+http://example.com/2022/12/02/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-20221202/
 http://example.com/2022/11/29/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-20221129/
+http://example.com/2022/12/01/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-20221201/
 http://example.com/2022/11/30/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-20221130/
 http://example.com/books/index.html
 http://example.com/tags/index.html
